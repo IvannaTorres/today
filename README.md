@@ -1,2 +1,1 @@
-# today
-no aplica
+# JUEGOS-COMPATIBLES-CON-DISPOSITIVOS-AM2
